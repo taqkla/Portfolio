@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /*!
-* Start Bootstrap - Resume v6.0.0 (https://startbootstrap.com/template-overviews/resume)
+* Start Bootstrap - Resume v6.0.0 (https://patrickwane.me)
 * Copyright 2013-2020 Start Bootstrap
 * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
 */
@@ -2027,10 +2027,6 @@ pre code {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.25);
 }
 .form-control::-webkit-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
-}
-.form-control::-moz-placeholder {
   color: #6c757d;
   opacity: 1;
 }
@@ -4525,10 +4521,10 @@ input[type=button].btn-block {
 }
 @media (min-width: 576px) {
   .card-columns {
-    -moz-column-count: 3;
-         column-count: 3;
-    -moz-column-gap: 1.25rem;
-         column-gap: 1.25rem;
+    -webkit-column-count: 3;
+            column-count: 3;
+    -webkit-column-gap: 1.25rem;
+            column-gap: 1.25rem;
     orphans: 1;
     widows: 1;
   }

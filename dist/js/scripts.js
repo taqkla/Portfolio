@@ -1,5 +1,5 @@
 /*!
-    * Start Bootstrap - Resume v6.0.0 (https://startbootstrap.com/template-overviews/resume)
+    * Start Bootstrap - Resume v6.0.0 (https://patrickwane.me)
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
     */
